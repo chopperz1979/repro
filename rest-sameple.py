@@ -4,8 +4,8 @@ import requests
 import json
 
 # put the ip address or dns of your apic-em controller in this url
-url = 'https://sandboxapic.cisco.com/api/v0/host/1/3'
-#url = 'https://sandboxapic.cisco.com/api/v0/link'
+#url = 'https://sandboxapic.cisco.com/api/v0/host/1/3'
+url = 'https://sandboxapic.cisco.com/api/v0/link'
 #url = 'https://sandboxapic.cisco.com/api/v0/network-device/cceaf2fe-c3d9-4d37-bf14-fba071c27d6e/config'
 
 # this statement performs a GET on the specified url
